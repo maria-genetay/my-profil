@@ -1,0 +1,39 @@
+body {
+	background-color: #dcd5d5;
+    color: #686899;
+    font-family: helvetica;
+    font-size: 13px
+ }
+
+ h1 {
+ 	color: purple;
+ 	font-family: helvetica;
+ 	font-weight: bold;
+}
+
+a { 
+	text-decoration: none;
+	color: purple;
+	font-weight: 600; 
+}
+
+a: hover {
+	color: black ;
+}
+
+div {  
+	background: white;
+        padding: 65px;
+        margin: 40px auto; 
+        box-shadow: 2px 2px 3px #5c5959;
+        border-radius: 5px;
+        width: 500px;
+        height: 250px; 
+}
+
+#mariagenetay {
+	width: 130px;
+	height: 130px;
+	border-radius: 20px;
+	margin: 20px auto;
+}
